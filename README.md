@@ -1,5 +1,4 @@
-Repositorio para la asignatura Simulación. Curso 2025-2026.
-
+Repositorio para la asignatura Simulación
 ¿Qué encontrar en este repositorio?
 - Estudios con péndulos (muelles básicos)
 - Estudios de cañones con integradores (fuerza: peso, gravitatoria, viento, rozamiento ...)
@@ -13,7 +12,7 @@ Tecnologías utilizadas:
 
 - - - - - -
 
-Repository for the Simulation subject. 2025-2026 academic year. 
+Repository for the Simulation subject
 
 What to find in this repository? 
   - Studies with pendulums (basic springs)
