@@ -14,6 +14,7 @@ Tecnologías utilizadas:
 - - - - - -
 
 Repository for the Simulation subject. 2025-2026 academic year. 
+
 What to find in this repository? 
   - Studies with pendulums (basic springs)
   - Studies of cannons with integrators (force: weight, gravitational, wind, friction ...)
